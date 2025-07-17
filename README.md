@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Devesh 👨‍💻</h1>
-<h3 align="center">AI/ML Enthusiast • Deep Learning Explorer • PyTorch Practitioner Building quietly, learning deeply — one model, one notebook at a time.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devesssi&label=Profile%20views&color=0e75b6&style=flat" alt="devesssi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devesssi" alt="devesssi" /></a> </p>
 
-- 👯 I’m looking to collaborate on **AI/ML experiments, open-source PyTorch projects, research-oriented tasks**
 
-- 🤝 I’m looking for help with **Finding AI research assistant opportunities and learning mentorship**
 
-- 📫 How to reach me **DM on GitHub or drop a message at tiwaridevesh745@gmail.com**
 
-- ⚡ Fun fact **I’m silently building an AI mind — and it’s coming together one tensor at a time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
